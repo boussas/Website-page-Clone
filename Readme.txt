@@ -1,6 +1,10 @@
+
+LINK: 
+
+
 source: https://www.frontendpractice.com/projects/abstract
 
-live preview: https://help.abstract.com/hc/en-us
+original website preview: https://help.abstract.com/hc/en-us
 
 imgs:https://www.pexels.com/fr-fr/
 
